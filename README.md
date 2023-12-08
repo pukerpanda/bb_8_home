@@ -1,5 +1,5 @@
 # bb_8_home
-These home BB-8 robots are mainly intended for entertainment and may vary in features and capabilities 
+These home BB-8 robots are mainly intended for entertainment and may vary in features and capabilities
 
 ## Hardware design detailed
 
@@ -7,3 +7,5 @@ These home BB-8 robots are mainly intended for entertainment and may vary in fea
 
 ## Functional description
 
+
+AccessKey: WwlfYtGT2EiWUIYuYfu+DiXAxso8qnxcuafYo/EZLI/vC95+VfaiiA==
